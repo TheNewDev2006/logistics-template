@@ -1,0 +1,7 @@
+ <!-- Scroll Top -->
+ <div class="scroll-top">
+    <svg class="progress-circle svg-content" height="100%" viewBox="-1 -1 102 102" width="100%">
+       <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" fill="none" stroke="black" stroke-width="2">
+       </path>
+    </svg>
+ </div>
